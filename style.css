@@ -1,5 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&family=Koulen&display=swap');
+
+/* font-family: 'Dosis', sans-serif;
+font-family: 'Koulen', cursive; */
+
+
+
 body{
+  text-align:center;
   background-color:#befbf1;
   color:#f0337b;
   font-size:1.5em;
+  
+ 
 }
+
+h1, h3{
+   text-shadow:2px 2px 2px #56eef4;
+    font-family: 'Koulen', cursive;
+}
+
+p, a{
+  color:#c1a8ff;
+  text-shadow:2px 2px 2px #56eef4;
+  font-family: 'Dosis', sans-serif
+}
+
